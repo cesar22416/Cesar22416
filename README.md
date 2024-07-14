@@ -14,11 +14,11 @@
 
 - 👯 Estoy buscando colaborar en [FRONT END](GOOGLE)
 
-- 🤝 Estoy buscando ayuda con [SEÑOR](.)
+- 🤝 Estoy buscando ayuda con [Aplicar nuevos lenguaje s]
 
-- 💬 Pregúntame sobre **React**
+- 💬 Pregúntame sobre **Desarrollo Front End**
 
-- 📫 Cómo contactarme **,**
+- 💻 Porfolio .[ver] (https://developercesarmontilla.netlify.app/)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
