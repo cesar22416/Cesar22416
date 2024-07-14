@@ -14,7 +14,7 @@
 
 - 👯 Estoy buscando colaborar en [FRONT END](GOOGLE)
 
-- 🤝 Estoy buscando ayuda con [Aplicar nuevos lenguaje s]
+- 🤝 Estoy buscando ayuda con [Aplicar nuevos lenguajes](.)
 
 - 💬 Pregúntame sobre **Desarrollo Front End**
 
