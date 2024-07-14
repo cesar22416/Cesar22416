@@ -18,7 +18,7 @@
 
 - 💬 Pregúntame sobre **Desarrollo Front End**
 
-- 💻 Porfolio .[ver] (https://developercesarmontilla.netlify.app/)
+- 💻 Porfolio .[ver](https://developercesarmontilla.netlify.app/)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
